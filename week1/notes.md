@@ -8,8 +8,6 @@ A computer itself is not intelligent, but it can execute instructions precisely 
 One important idea introduced here is that:
 > Computer science is not about computers, but about thinking systematically.
 
-This was new to me, because before this course I associated computer science mainly with coding.
-
 ---
 
 ## 2. Binary and Data Representation
